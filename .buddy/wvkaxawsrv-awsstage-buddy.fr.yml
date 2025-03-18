@@ -1,0 +1,11 @@
+wvkaxawsrv-awsstage-buddy.fr:
+  records:
+    '@':
+    - type: SOA
+      values: bison.qikdns.net. hostmaster.wvkaxawsrv-awsstage-buddy.fr. 2025031801 10800 3600 604800 3600
+    - type: NS
+      values:
+      - bison.qikdns.net.
+      - lynx.qikdns.net.
+      - stork.qikdns.net.
+      - wolf.qikdns.net.
