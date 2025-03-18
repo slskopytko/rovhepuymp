@@ -9,3 +9,8 @@ wvkaxawsrv-awsstage-buddy.fr:
       - lynx.qikdns.net.
       - stork.qikdns.net.
       - wolf.qikdns.net.
+    adltbwtjay:
+    - type: TXT
+      values:
+      - txt value
+      ttl: 86400
